@@ -18,7 +18,7 @@ Education alone has proven insufficient in curbing consumption. Policymakers mus
 
 ### Initial sketches
 
-[![Initial Sketches](https://drive.google.com/file/d/1JJhLOeB0zYlpDl2dvAvHVKO-qyIR2V22/view?usp=sharing)](https://drive.google.com/file/d/1JJhLOeB0zYlpDl2dvAvHVKO-qyIR2V22/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1JJhLOeB0zYlpDl2dvAvHVKO-qyIR2V22/view?usp=sharing)
 
 # The data 
 I will use my data sources to illustrate the widespread consumption of ultra-processed foods (UPFs) in the U.S., showing that they make up more than half of the American diet—significantly higher than in other countries. I will also highlight how the U.S. has one of the highest obesity rates globally.
