@@ -10,11 +10,11 @@ Though these foods may appear inexpensive at the grocery store, their true cost 
 Education alone has proven insufficient in curbing consumption. Policymakers must take a more active role in regulating the food industry. Sugar taxes, for example, have been shown to reduce consumption and improve public health outcomes. More lawmakers should recognize their effectiveness and advocate for policies that create meaningful barriers to the unchecked sale of harmful, ultra-processed foods.
 
 ### Story Structure 
-Setup: The American diet is made up of over 50% ultra processed foods (UPFs).
+**Setup:** The American diet is made up of over 50% ultra processed foods (UPFs).
 
-Conflict: UPFs have a positive association with noncommunicable diseases (NCDs) including heart disease, stroke, diabetes, and cancer. These NCDs make up more than 90% of health care spending. 
+**Conflict:** UPFs have a positive association with noncommunicable diseases (NCDs) including heart disease, stroke, diabetes, and cancer. These NCDs make up more than 90% of health care spending. 
 
-Resolution: Sugar taxes are associated with a 33% decline of sugary food purchases.
+**Resolution:** Sugar taxes are associated with a 33% decline of sugary food purchases.
 
 ### Initial sketches
 
