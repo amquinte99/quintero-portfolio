@@ -29,3 +29,5 @@ After this class I hope to be working in environmental policy and use the skills
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
+
+### Final Project Part 1: [final project I](final-project-part-one)
