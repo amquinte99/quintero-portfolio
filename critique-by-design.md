@@ -11,8 +11,21 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+![Makeover Monday Pick](Most-Dependable-Car-Brands-in-the-US_Web.jpg)
+Source: https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/#google_vignette
+
+I chose this data visualization because I’m planning to buy a car after I graduate, and I’ve come across many similar rankings that feel unreliable or lacking in transparency. This is the first one I’ve seen that actually provides a clear metric—problems per 100 vehicles—to explain how reliability is measured.
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I found this visualization really useful because it clearly states the metric used—problems per 100 vehicles—which is something I haven’t seen in other rankings. Most just list the rankings without explaining the methodology. That said, I was initially confused by the numbers being over 100, and I think there might be a more intuitive way to present that information.  
+
+I’m not sure how I feel about the use of both brand logos and names. It seems redundant, but I know a lot of visualizations do this. The bar graph itself is easy to read, but it took me a while to notice the “average” bar, which I think is actually really helpful but doesn’t stand out enough.  
+
+Visually, I found the blue-to-red color gradient unnecessary and even a little distracting. Since the data is simple, a clean bar chart would be just as effective—maybe even better. I’d also be interested in trying a unit chart to see if it makes the information more engaging without overcomplicating it.  
+
+I think the primary audience for this tool is people looking for a reliable car, and in that sense, it does its job well. I could quickly find the top-ranked cars and adjust my search accordingly.  
+
+If I were to make changes, I’d focus on aesthetics—reducing unnecessary color and using it more intentionally to highlight important details, like the “average” bar. I’d also reconsider how the problems-per-100-vehicles metric is presented since it wasn’t immediately intuitive to me. Maybe showing problems per vehicle would be easier to grasp, but I’d want to test that with others to see if it’s just a personal preference.
 
 ## Step three: Sketch a solution
 
@@ -39,9 +52,11 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|   Can you tell me what you think this is?       |             |             |
+|   Can you describe to me what this is telling you?       |             |             |
+|  Is there anything you find surprising or confusing?        |             |             |
+| Who do you think is the intended audience for this?         |             |             |
+|Is there anything you would change or do differently?          |             |             |
 
 Synthesis: 
 
