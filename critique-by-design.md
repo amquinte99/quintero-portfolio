@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Makeover Monday for Reliable Cars!
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 ![Makeover Monday Pick](Most-Dependable-Car-Brands-in-the-US_Web.jpg)
@@ -53,11 +48,13 @@ If I were to make changes, I’d focus on aesthetics—reducing unnecessary colo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|   Can you tell me what you think this is?       |     Comparing typical car problems to average number of car problems        |  Comparing typical car problems to average number of car problems           |
-|   Can you describe to me what this is telling you?       |  Most cars have above the average number of problems           |    Most cars have above the average number of problems         |
-|  Is there anything you find surprising or confusing?        |  The average seems high           |   The average seems high          |
-| Who do you think is the intended audience for this?         |    People looking to buy cars         |    People looking to buy cars         |
-|Is there anything you would change or do differently?          |  There's a lot going on, maybe you could break up the brands by country or include a hover-over feature to display the average price of cars          |    I think maybe you could make the brands more obvious, there's a lot of them they kind of get lost         |
+|   Can you tell me what you think this is?       |     Comparing typical car problems to average number of car problems.  |  Comparing typical car problems to average number of car problems.          |
+|   Can you describe to me what this is telling you?       |  Most cars have above the average number of problems. |    Most cars have above the average number of problems.       |
+|  Is there anything you find surprising or confusing?        |  The average seems high.       |   The average seems high.   |
+| Who do you think is the intended audience for this?         |    People looking to buy cars.     |    People looking to buy cars.     |
+|Is there anything you would change or do differently?          |  There's a lot going on, maybe you could break up the brands by country or include a hover-over feature to display the average price of cars.     |    I think maybe you could make the brands more obvious, there's a lot of them they kind of get lost.        |
+
+_Note: It was hard to get different answers for some questions because we were in a group, so one person would answer and the other would nod along and agree and not have further input_
 
 **Synthesis:**
 
