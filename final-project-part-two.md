@@ -61,11 +61,6 @@ From my interviews I gathered that people generally liked what the website looke
 
 # Moodboards / personas
 
-Text here!
+![Moodboard](Screenshot 2025-02-17 153955.png)
 
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+My moodboard helped me SO much. I'm honestly not generally very good at creative things but it was helpful that every time I looked for a picture I could go back to my mood board and see what colors I should make it. And I edited shorthand to have the colors I was using put straight into the platform as story colors and it helped me A TON. I really like the way it came out.
