@@ -2,8 +2,6 @@
 
 # Wireframes / storyboards
 
-heyyy 
-
 [Shorthand Preview](https://preview.shorthand.com/hPCHpoX8hXgyKuto)
 
 # User research 
