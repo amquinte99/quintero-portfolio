@@ -47,13 +47,15 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The picture of the Kellogg's box confuses people into thinking the statistic is about Kellogg's specifically. | Look for a picture that matches the color theme but includes more than one brand. |
+|   It's not immediately apparent that UPF = ultra-processed food                                       |                               Include UPF in parentheses first few times I mention ultra-processd food.                                                  |
+|  Some users may be discouraged by not knowing what to write to their Congressperson.                                       |         Include a letter people can copy and paste to send to their Congressperson.                                                                        |
+|    The statistic about Black children seeing ads 2x more than their white counterparts is confusing.                                      |     I don't think I'll do anything about this, only one person mentioned it and I think the statistic is generally straightforward.                                                                            |
+| The orange in the graphs may be a bit difficult too.           |      Make the orange in the graphs a bit darker.                                                                           |
+|  Some people may think sugar taxes might be regressive in making food more expensive for minority groups.                                       |        Emphasize that a sugar tax would be on sugary drinks only by underlining drinks.                                                                         |
+|   The firt chart is not very clear to some users.                                       |       Change the title of the graph to "More than half of calories in the staple "Western Diet" comes from UPFS.                                                                          |
 
-> ...include any final thoughts you have here. 
+
 
 Text here!
 
