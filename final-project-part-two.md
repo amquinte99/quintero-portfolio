@@ -57,10 +57,9 @@ Text here!
 
 
 
-Text here!
+From my interviews I gathered that people generally liked what the website looked like but there were a few things I could do to make it that much better.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
