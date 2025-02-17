@@ -9,6 +9,7 @@
 I am hoping to target White U.S. citizens, so these are the folks I sought out to interview.
 
 ## Interview script
+
 | Goal | Questions to Ask |
 |------|------------------|
 | To understand what users take away from the website. | What are you getting out of the website? |
@@ -17,8 +18,8 @@ I am hoping to target White U.S. citizens, so these are the folks I sought out t
 | To see if they like the way the website looks. | What do you think about the aesthetics of the website? |
 | To determine if anything hinders comprehension. | Was there anything you found confusing about the website? |
 
-
 ## Interview findings
+
 | Questions | Interview 1 | Interview 2 | Interview 3 | Interview 4 |
 |-----------|-------------|-------------|-------------|-------------|
 | **What are you getting out of the website?** | That UPFs are bad. | Things are tiered within our nutrition system, so I learned about that, and I learned about targeted ads about certain communities. | UPFs are bad for health and affect marginalized communities more than others. | I got that UPFs are very prevalent and they were related to the top 3 causes of death in the US and that some communities are more vulnerable than others. |
@@ -27,10 +28,8 @@ I am hoping to target White U.S. citizens, so these are the folks I sought out t
 | **What do you think about the aesthetics of the website?** | It worked very well. | I think it looked good; the only issue was some of the graphs with the orange were slightly challenging for me to see. | Yes, I like the color theme. | I think they’re pretty good. I thought they made sense being next to each other and blending, but I feel some of the graphs could be a bit more persuasive. |
 | **Was there anything you found confusing about the website?** | Image association with some of the statistics, making conclusions that weren’t intended. | No, I think the only thing was when you have the UPFs—I didn’t get what ultra-processed foods were. At the end, it says to reach out to our congressperson—maybe give them a sentence to copy and paste and send it to them. | The 2x thing—do only Black kids see it, or are they 2x more likely? I didn’t understand what the first graph was trying to show—what is the percentage in terms of? Is it of the overall diet? | I think the first graph is a bit confusing; it’s not immediately clear what is being presented. And the one that showed the top 4 causes of death—I think it would be more striking if we were way below the top 4 causes. |
 
-
-
-
 # Identified changes for Part III
+
 | Research Synthesis | Anticipated Changes for Part III |
 |--------------------|----------------------------------|
 | The picture of the Kellogg's box confuses people into thinking the statistic is about Kellogg's specifically. | Look for a picture that matches the color theme but includes more than one brand. |
