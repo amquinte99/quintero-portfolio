@@ -1,20 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
 [Shorthand Preview](https://preview.shorthand.com/hPCHpoX8hXgyKuto)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
 I am hoping to target White U.S. citizens, so these are the folks I sought out to interview.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
 | Goal | Questions to Ask |
 |------|------------------|
 |  To understand what users take away from the website.    |  What are you getting out of the website?              |
@@ -25,10 +19,6 @@ I am hoping to target White U.S. citizens, so these are the folks I sought out t
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 | Interview 4 |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
 | What are you getting out of the website? | That UPFs are bad.          | Things are tiered within our nutrition system, so I learned about that, and I learned about targeted ads about certain communities.           |  UPFs are bad for health and affect marginalized communities more than others.           |     I got that UPFs are very prevalent and they were related to the top 3 causes of death in the US and that some communities are more vulnerable than other.        |
@@ -41,10 +31,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The picture of the Kellogg's box confuses people into thinking the statistic is about Kellogg's specifically. | Look for a picture that matches the color theme but includes more than one brand. |
@@ -54,8 +40,6 @@ Text here!
 | The orange in the graphs may be a bit difficult too.           |      Make the orange in the graphs a bit darker.                                                                           |
 |  Some people may think sugar taxes might be regressive in making food more expensive for minority groups.                                       |        Emphasize that a sugar tax would be on sugary drinks only by underlining drinks.                                                                         |
 |   The firt chart is not very clear to some users.                                       |       Change the title of the graph to "More than half of calories in the staple "Western Diet" comes from UPFS.                                                                          |
-
-
 
 From my interviews I gathered that people generally liked what the website looked like but there were a few things I could do to make it that much better.
 
