@@ -41,7 +41,7 @@ I am hoping to target White U.S. citizens, so these are the folks I sought out t
 |  Some people may think sugar taxes might be regressive in making food more expensive for minority groups.                                       |        Emphasize that a sugar tax would be on sugary drinks only by underlining drinks.                                                                         |
 |   The firt chart is not very clear to some users.                                       |       Change the title of the graph to "More than half of calories in the staple "Western Diet" comes from UPFS.                                                                          |
 
-From my interviews I gathered that people generally liked what the website looked like but there were a few things I could do to make it that much better.
+From my interviews I gathered that people generally liked what the website looked like but there are a few things I could do to make it that much better.
 
 # Moodboards / personas
 
