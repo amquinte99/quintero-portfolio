@@ -25,4 +25,6 @@ After this class I hope to be working in environmental policy and use the skills
 
 ### Final Project Part 1: [final project I](final-project-part-one)
 
-### Final Project Part 2: [final project II](final-project-part-two)
+### Final Project Part 2: [final project II](final-project-part-three)
+
+### Final Project Part 3: [final project III](final-project-part-two)
