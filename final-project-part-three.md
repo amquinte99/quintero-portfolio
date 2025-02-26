@@ -15,26 +15,19 @@ I also made a small but important change regarding the sugary drink tax. To clar
 Finally, I revised the title of my first chart to: "How does the Western diet compare globally? Ranking countries by ultra-processed foods (UPFs) as a share of total caloric intake." This change helps guide readers toward the correct interpretation of the data, as I realized the original title did not clearly indicate that the percentages represented UPFs as a share of total caloric intake. I found this revision to be particularly helpful in making the data more accessible.
 
 ## The audience
-For my audience, I ultimately chose white, upper-middle-class and wealthy U.S. citizens. As I state on my website, the people most affected by this issue are lower-income minorities, but I did not target them because they do not need to be educated on a reality they are already living. While they can, of course, read about this issue, they are already more than aware of the lack of options and access they have to food. Instead, I focused on engaging a demographic that holds more political and economic influence—one that may not personally experience the consequences of ultra-processed foods (UPFs) but has the power to push for policy change.
+For my audience, I ultimately chose white, upper-middle-class and wealthy U.S. citizens. As I state on my website, the people most affected by this issue are lower-income minorities, but I did not target them because they do not need to be educated on a reality they are already living.
 
 Initially, I considered tailoring the website toward policymakers, urging them to sponsor legislation in their states. However, in my Policy Analysis in Practice course, we discussed the complexities of how and why policymakers introduce legislation.
 
 One key takeaway was that many legislators genuinely want to pass meaningful policies, but they often don’t move forward with certain proposals simply because they don’t see a viable path to passage. Legislative action is often driven by national climate—when a major event shifts public sentiment, making it easier for lawmakers to reach consensus and enact change. A historical example is 9/11, which unified Congress around specific policy decisions.
 
-Thinking about this project more holistically—beyond just earning points for my class—I believe mobilizing constituents to pressure legislators would be more impactful than simply presenting them with a website. A single website created by one person is unlikely to sway policymakers, but a flood of emails from engaged constituents could create the pressure necessary for action. This website, therefore, serves as a tool to build that momentum, contributing to a broader national conversation around ultra-processed foods (UPFs).
+Thinking about this project more holistically—beyond just earning points for my class—I believe mobilizing constituents to pressure legislators would be more impactful than simply presenting legislators with a website. A single website created by one person is unlikely to sway policymakers, but a flood of emails from engaged constituents could create the pressure necessary for action. This website, therefore, serves as a tool to build that momentum, contributing to a broader national conversation around ultra-processed foods (UPFs).
 
 Right now, there is a growing public focus on UPFs, weight loss, and drugs like Ozempic, making this an opportune moment to engage people who have the power to influence legislative priorities. That’s why I chose to target white, upper-middle-class and above U.S. citizens—because their voices are often heard in political spaces and can help drive broader change.
 
-I recognize that this decision may not be the most inclusive, and you might even find it disappointing. However, given the structural realities of policy change, I believe this approach will be the most effective in achieving real impact.
-
-
+I recognize that this decision may be too broad, and you might find it disappointing. However, given the structural realities of policy change, I think this approach would be the most effective in achieving real impact.
 
 ## AI acknowledgements
-For this assignment I ended up using AI to write a letter to congresspeople.
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+For this assignment, I used AI to generate a letter to Congress.
 
 
